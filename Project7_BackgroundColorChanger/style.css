@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+button {
+  cursor: pointer;
+  height: 100px;
+  width: 120px;
+  margin: 5px;
+}
+#red {
+  background-color: red;
+}
+#orange {
+  background-color: orange;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+#purple {
+  background-color: purple;
+}
