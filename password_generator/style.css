@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("./image.jpg");
+}
+#root {
+    width: 600px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+h1 {
+    background-color: white;
+    /* color: rgba(3, 116, 118, 0.841); */
+    color: black;
+    font-weight: 900;
+    font-size: 35px;
+}
+.options {
+    font-size: 20px;
+}
